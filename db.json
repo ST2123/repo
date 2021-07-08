@@ -13,4 +13,18 @@
             "image": "img",
         },
     ],
+    "popular": [
+        {
+            "title": "title1",
+            "image": "img",
+        },
+        {
+            "title": "title1",
+            "image": "img",
+        },
+        {
+            "title": "title1",
+            "image": "img",
+        },
+    ],
 }
