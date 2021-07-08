@@ -1,8 +1,16 @@
 {
     "featured": [
         {
-            "title": "title"
-            "image": "img"
-        }
+            "title": "title",
+            "image": "img",
+        },
+        {
+            "title": "title",
+            "image": "img",
+        },
+        {
+            "title": "title",
+            "image": "img",
+        },
     ]
 }
