@@ -2,29 +2,29 @@
     "featured": [
         {
             "title": "title",
-            "image": "img",
+            "image": "img"
         },
         {
             "title": "title",
-            "image": "img",
+            "image": "img"
         },
         {
             "title": "title",
-            "image": "img",
+            "image": "img"
         },
     ],
     "popular": [
         {
             "title": "title1",
-            "image": "img",
+            "image": "img"
         },
         {
             "title": "title1",
-            "image": "img",
+            "image": "img"
         },
         {
             "title": "title1",
-            "image": "img",
-        },
-    ],
+            "image": "img"
+        }
+    ]
 }
