@@ -1,21 +1,19 @@
 {
-  "featured": [
+  "posts": [
     {
-      "title": "title1"
-      "image": "https://cdn.psdrepo.com/images/2x/free-mockup-psd-k5.jpg"
+      "id": 1,
+      "title": "hello"
     },
     {
-      "title": "title2"
-      "image": "https://cdn.psdrepo.com/images/2x/free-branding-and-visual-identity-mockup-z4.jpg"
+      "id": 1,
+      "title": "hello"
     },
     {
-      "title": "title3"
-      "image": "https://cdn.psdrepo.com/images/2x/vans-era-free-mockup-photoshop-psd-e2.jpg"
-    },
-    {
-      "title": "title4"
-      "image": "https://cdn.psdrepo.com/images/2x/adidas-shoes-mockup-f9.jpg"
+      "id": 1,
+      "title": "hello"
     },
   ],
-  
+  "profile": {
+    "name": "typicode"
+  }
 }
