@@ -1,0 +1,30 @@
+{
+  "featured": [
+    {
+      "title": "title",
+      "image": "img"
+    },
+    {
+      "title": "title",
+      "image": "img"
+    },
+    {
+      "title": "title",
+      "image": "img"
+    }
+  ],
+  "popular": [
+    {
+      "title": "title1",
+      "image": "img"
+    },
+    {
+      "title": "title1",
+      "image": "img"
+    },
+    {
+      "title": "title1",
+      "image": "img"
+    }
+  ]
+}
