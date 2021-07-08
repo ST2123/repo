@@ -2,33 +2,37 @@
     "featured": [
         {
             "title": "title",
-            "image": "img1"
+            "image": "https://cdn.psdrepo.com/images/2x/free-mockup-psd-k5.jpg"
         },
         {
-            "title": "title",
-            "image": "img2"
+            "title": "title2",
+            "image": "https://cdn.psdrepo.com/images/2x/free-branding-and-visual-identity-mockup-z4.jpg"
         },
         {
-            "title": "title",
-            "image": "img3"
+            "title": "title3",
+            "image": "https://cdn.psdrepo.com/images/2x/vans-era-free-mockup-photoshop-psd-e2.jpg"
         },
         {
-            "title": "title",
-            "image": "img2"
+            "title": "title4",
+            "image": "https://cdn.psdrepo.com/images/2x/adidas-shoes-mockup-f9.jpg"
         },
     ],
     "popular": [
         {
-            "title": "title1",
-            "image": "img"
+            "title": "title",
+            "image": "https://cdn.psdrepo.com/images/2x/free-mockup-psd-k5.jpg"
         },
         {
-            "title": "title1",
-            "image": "img"
+            "title": "title2",
+            "image": "https://cdn.psdrepo.com/images/2x/free-branding-and-visual-identity-mockup-z4.jpg"
         },
         {
-            "title": "title1",
-            "image": "img"
-        }
+            "title": "title3",
+            "image": "https://cdn.psdrepo.com/images/2x/vans-era-free-mockup-photoshop-psd-e2.jpg"
+        },
+        {
+            "title": "title4",
+            "image": "https://cdn.psdrepo.com/images/2x/adidas-shoes-mockup-f9.jpg"
+        },
     ]
 }
